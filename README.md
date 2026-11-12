@@ -35,3 +35,18 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
 
 <!-- 자유롭게 수정하세요: 소개 문구, 프로젝트 목록, 스택 배지 -->
+
+---
+
+### 📊 GitHub 통계
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=develu0825&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=22d3ee&icon_color=22d3ee" alt="stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=develu0825&layout=compact&hide_border=true&theme=tokyonight&title_color=22d3ee&langs_count=8" alt="top langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=develu0825&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies" />
+</p>
+
+<p align="center"><sub>⭐️ 하나하나 직접 만들며 배웁니다 — dayeon</sub></p>
